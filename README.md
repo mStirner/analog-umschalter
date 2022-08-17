@@ -24,3 +24,7 @@ So dass nur das entsprechende Eingangsmodul mit der richtigen Adresse das Anlieg
 
 ## PCB Layout
 ...
+
+## Resourcen
+### Software:
+- https://wolles-elektronikkiste.de/attiny85-84-45-44-25-24-programmieren
